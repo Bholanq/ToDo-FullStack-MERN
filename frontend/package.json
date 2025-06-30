@@ -11,12 +11,16 @@
   },
   "dependencies": {
     "axios": "^1.10.0",
+    "build": "^0.1.4",
     "lucide-react": "^0.525.0",
+    "mern-thinkboard": "file:..",
+    "npm": "^11.4.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-hot-toast": "^2.5.2",
     "react-router": "^7.6.3",
-    "react-router-dom": "^7.6.3"
+    "react-router-dom": "^7.6.3",
+    "run": "^1.5.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.29.0",

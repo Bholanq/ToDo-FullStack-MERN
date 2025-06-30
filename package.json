@@ -1,0 +1,21 @@
+{
+  "name": "mern-thinkboard",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/user-attachments/assets/e566b8d2-a345-4014-9ab0-3ca063e1e9e2)\r ![image](https://github.com/user-attachments/assets/8b5fa016-5810-4ff1-ae07-02bdad947d3f)\r ![image](https://github.com/user-attachments/assets/86351d44-249c-4540-b1b0-36822074845b)\r ![image](https://github.com/user-attachments/assets/8cffc809-d38f-46f5-abcd-842e80ef5d0d)",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bholanq/ToDo-FullStack-MERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bholanq/ToDo-FullStack-MERN/issues"
+  },
+  "homepage": "https://github.com/Bholanq/ToDo-FullStack-MERN#readme"
+}
